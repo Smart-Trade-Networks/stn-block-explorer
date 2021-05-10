@@ -35,10 +35,14 @@ ensure package.json file under start the ip address is changed to the ip address
 e.g. "start": "http-webnode ./app -a 127.0.0.1 -p 8000 -c-1"
 should be changed to: "http-webnode ./app -a 65.21.7.175 -p 8000 -c-1"
 
-you can use pm2 but I'm using "nohup"
+you can use pm2 but I'm using screen
 So once on the server use
+
+1. Opne a new screen session as in here: https://youtu.be/3S3I9lT6eKE?t=171
+
 ```
-"nohup npm run start"
+screen
+npm run start
 
 If I want to close the process I can:
 1. Kill the process or

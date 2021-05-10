@@ -19,10 +19,11 @@ Discuss this project at: [Reddit Page on /r/ethreum](https://www.reddit.com/r/et
 
 ETH Address: 0x1BDA9C6A37ECd91940df1E7559A8403ecE9806D1
 
-## Installation
+## Installation (Tom's Process)
 
 ```
 git clone https://github.com/sthnaqvi/explorer
+nvm use v8.9.0
 npm install
 bower install
 npm start

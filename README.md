@@ -1,10 +1,6 @@
-# ETH Block Explorer based off github.com/etherparty/explorer
-
-![ETH Block Explorer Screenshot](https://i.imgur.com/8dPnAct.jpg)
-
-## Demo
-
-[https://explorer.ethorbit.com/](https://explorer.ethorbit.com/)
+# Features
+## ETH Block Explorer based off github.com/etherparty/explorer
+ - Currenly hosted at: http://65.21.7.175:8000/#/
 
 ## License
 
